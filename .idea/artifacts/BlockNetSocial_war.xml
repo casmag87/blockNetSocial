@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BlockNetSocial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BlockNetSocial</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BlockNetSocial-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BlockNetSocial:war exploded" />
+    </root>
+  </artifact>
+</component>
